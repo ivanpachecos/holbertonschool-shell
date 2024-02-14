@@ -1,2 +1,2 @@
 #!/bin/bash
-mv 0-iam_betty betty
+tail -1 0-iam_betty
