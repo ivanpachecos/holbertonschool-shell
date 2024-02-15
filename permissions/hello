@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 760 7-everybody 
+chmod 555 hello
