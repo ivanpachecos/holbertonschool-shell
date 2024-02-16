@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644 folder1 folder2 folder3 
+chmod 711 folder1 folder2 folder3 
