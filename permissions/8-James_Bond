@@ -1,2 +1,2 @@
 #!/bin/bash
-chamd 0+ hello
+chmod o+rw+x hello 
