@@ -1,0 +1,16 @@
+total 52
+drwxrwxr-x 2 leonardo leonardo 4096 Feb 18 07:22 .
+drwxrwxr-x 6 leonardo leonardo 4096 Feb 17 02:58 ..
+-rwxrwxr-x 1 leonardo leonardo   32 Feb 17 17:18 0-hello_world
+-rwxrwxr-x 1 leonardo leonardo   28 Feb 18 00:34 1-confused_smiley
+-rwxrwxr-x 1 leonardo leonardo   28 Feb 18 00:46 2-hellofile
+-rwxrwxr-x 1 leonardo leonardo   39 Feb 18 00:48 3-twofiles
+-rwxrwxr-x 1 leonardo leonardo   29 Feb 18 01:21 4-lastlines
+-rwxrwxr-x 1 leonardo leonardo   30 Feb 18 01:25 5-firstlines
+-rwxrwxr-x 1 leonardo leonardo   36 Feb 18 01:37 6-third_line
+-rwxrwxr-x 1 leonardo leonardo   99 Feb 18 02:15 7-file
+-rwxrwxr-x 1 leonardo leonardo   36 Feb 18 07:10 8-cwd_state
+-rw-rw-r-- 1 leonardo leonardo    0 Feb 18 07:12 9-duplicate_last_line
+-rw-rw-r-- 1 leonardo leonardo  801 Feb 18 01:35 iacta
+-rw-rw-r-- 1 leonardo leonardo    0 Feb 18 07:22 ls_cwd_content
+-rw-rw-r-- 1 leonardo leonardo   33 Feb 17 16:40 README.md
